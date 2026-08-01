@@ -1,6 +1,6 @@
 # umdot 움돋
 
-돋움의 비트맵 글꼴에서 모양을 가져온 픽셀 폰트.
+돋움의 비트맵 글꼴에서 모양을 가져온 픽셀 폰트입니다.
 
 ## 폰트 미리보기
 
@@ -28,16 +28,29 @@ HTML `<link>` 태그 또는 CSS `@import` 방식으로 폰트를 불러온 후 �
 @import url("https://cdn.jsdelivr.net/gh/MonadABXY/umdot-font@main/umdot.css");
 ```
 
-### `폰트 패밀리로 사용`
+### 폰트 패밀리로 사용
 
 ```css
 font-family: "Umdot12", sans-serif;
+font-weight: 400;
+
+font-family: "Umdot12", sans-serif;
+font-weight: 700;
+
+font-family: "UmdotMono12", monospace;
+font-weight: 400;
+
+font-family: "UmdotMono12", monospace;
+font-weight: 700;
 ```
 
-### `클래스로 사용`
+### 클래스로 사용
 
-```css
+```html
 <div class="umdot12">움돋 12px</div>
+<div class="umdot12-bold">움돋 12px Bold</div>
+<div class="umdotmono12">움돋 Mono 12px</div>
+<div class="umdotmono12-bold">움돋 Mono 12px Bold</div>
 ```
 
 ## 권장 크기
@@ -45,23 +58,23 @@ font-family: "Umdot12", sans-serif;
 폰트가 흐릿해지는 현상을 방지하고 또렷하게 출력하기 위해 **지정된 기본 픽셀 크기 또는 그 정수 배수**로 사용하는 것을 권장합니다.
 고해상도 또는 인쇄물에서는 신경쓰지 않아도 됩니다.
 
-| 폰트 종류    | px     | pt        |
-| :----------- | :----- | :-------- |
-| **umdot11** | `11px` | `8.25pt`  |
-| **umdot12** | `12px` | `9pt`     |
-| **umdot13** | `13px` | `9.75pt`  |
-| **umdot14** | `14px` | `10.5pt`  |
-| **umdot15** | `15px` | `11.25pt` |
-| **umdot16** | `16px` | `12pt`    |
-| **umdot17** | `17px` | `12.75pt` |
-| **umdot18** | `18px` | `13.5pt`  |
-| **umdot19** | `19px` | `14.25pt` |
-| **umdot20** | `20px` | `15pt`    |
-| **umdot21** | `21px` | `15.75pt` |
-| **umdot22** | `22px` | `16.5pt`  |
-| **umdot23** | `23px` | `17.25pt` |
-| **umdot24** | `24px` | `18pt`    |
-| **umdot25** | `25px` | `18.75pt` |
+| 폰트 종류 | px | pt |
+| :--- | :--- | :--- |
+| **Umdot11** / Mono / Bold | `11px` | `8.25pt` |
+| **Umdot12** / Mono / Bold | `12px` | `9pt` |
+| **Umdot13** / Mono / Bold | `13px` | `9.75pt` |
+| **Umdot14** / Mono / Bold | `14px` | `10.5pt` |
+| **Umdot15** / Mono / Bold | `15px` | `11.25pt` |
+| **Umdot16** / Mono / Bold | `16px` | `12pt` |
+| **Umdot17** / Mono / Bold | `17px` | `12.75pt` |
+| **Umdot18** / Mono / Bold | `18px` | `13.5pt` |
+| **Umdot19** / Mono / Bold | `19px` | `14.25pt` |
+| **Umdot20** / Mono / Bold | `20px` | `15pt` |
+| **Umdot21** / Mono / Bold | `21px` | `15.75pt` |
+| **Umdot22** / Mono / Bold | `22px` | `16.5pt` |
+| **Umdot23** / Mono / Bold | `23px` | `17.25pt` |
+| **Umdot24** / Mono / Bold | `24px` | `18pt` |
+| **Umdot25** / Mono / Bold | `25px` | `18.75pt` |
 
 ## 라이선스 및 크레딧
 

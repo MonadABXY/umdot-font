@@ -1,213 +1,604 @@
 @font-face {
   font-family: "Umdot11";
-  src: url("woff/Umdot11.woff2") format("woff2");
+  src: url("woff2/Umdot11.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot11";
+  src: url("woff2/Umdot11-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot12";
-  src: url("woff/Umdot12.woff2") format("woff2");
+  src: url("woff2/Umdot12.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot12";
+  src: url("woff2/Umdot12-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot13";
-  src: url("woff/Umdot13.woff2") format("woff2");
+  src: url("woff2/Umdot13.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot13";
+  src: url("woff2/Umdot13-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot14";
-  src: url("woff/Umdot14.woff2") format("woff2");
+  src: url("woff2/Umdot14.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot14";
+  src: url("woff2/Umdot14-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot15";
-  src: url("woff/Umdot15.woff2") format("woff2");
+  src: url("woff2/Umdot15.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot15";
+  src: url("woff2/Umdot15-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot16";
-  src: url("woff/Umdot16.woff2") format("woff2");
+  src: url("woff2/Umdot16.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot16";
+  src: url("woff2/Umdot16-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot17";
-  src: url("woff/Umdot17.woff2") format("woff2");
+  src: url("woff2/Umdot17.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot17";
+  src: url("woff2/Umdot17-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot18";
-  src: url("woff/Umdot18.woff2") format("woff2");
+  src: url("woff2/Umdot18.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot18";
+  src: url("woff2/Umdot18-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot19";
-  src: url("woff/Umdot19.woff2") format("woff2");
+  src: url("woff2/Umdot19.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot19";
+  src: url("woff2/Umdot19-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot20";
-  src: url("woff/Umdot20.woff2") format("woff2");
+  src: url("woff2/Umdot20.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot20";
+  src: url("woff2/Umdot20-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot21";
-  src: url("woff/Umdot21.woff2") format("woff2");
+  src: url("woff2/Umdot21.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot21";
+  src: url("woff2/Umdot21-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot22";
-  src: url("woff/Umdot22.woff2") format("woff2");
+  src: url("woff2/Umdot22.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot22";
+  src: url("woff2/Umdot22-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot23";
-  src: url("woff/Umdot23.woff2") format("woff2");
+  src: url("woff2/Umdot23.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot23";
+  src: url("woff2/Umdot23-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot24";
-  src: url("woff/Umdot24.woff2") format("woff2");
+  src: url("woff2/Umdot24.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot24";
+  src: url("woff2/Umdot24-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Umdot25";
-  src: url("woff/Umdot25.woff2") format("woff2");
+  src: url("woff2/Umdot25.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Umdot25";
+  src: url("woff2/Umdot25-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "UmdotMono11";
-  src: url("woff/UmdotMono11.woff2") format("woff2");
+  src: url("woff2/UmdotMono11.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono11";
+  src: url("woff2/UmdotMono11-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono12";
-  src: url("woff/UmdotMono12.woff2") format("woff2");
+  src: url("woff2/UmdotMono12.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono12";
+  src: url("woff2/UmdotMono12-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono13";
-  src: url("woff/UmdotMono13.woff2") format("woff2");
+  src: url("woff2/UmdotMono13.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono13";
+  src: url("woff2/UmdotMono13-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono14";
-  src: url("woff/UmdotMono14.woff2") format("woff2");
+  src: url("woff2/UmdotMono14.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono14";
+  src: url("woff2/UmdotMono14-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono15";
-  src: url("woff/UmdotMono15.woff2") format("woff2");
+  src: url("woff2/UmdotMono15.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono15";
+  src: url("woff2/UmdotMono15-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono16";
-  src: url("woff/UmdotMono16.woff2") format("woff2");
+  src: url("woff2/UmdotMono16.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono16";
+  src: url("woff2/UmdotMono16-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono17";
-  src: url("woff/UmdotMono17.woff2") format("woff2");
+  src: url("woff2/UmdotMono17.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono17";
+  src: url("woff2/UmdotMono17-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono18";
-  src: url("woff/UmdotMono18.woff2") format("woff2");
+  src: url("woff2/UmdotMono18.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono18";
+  src: url("woff2/UmdotMono18-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono19";
-  src: url("woff/UmdotMono19.woff2") format("woff2");
+  src: url("woff2/UmdotMono19.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono19";
+  src: url("woff2/UmdotMono19-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono20";
-  src: url("woff/UmdotMono20.woff2") format("woff2");
+  src: url("woff2/UmdotMono20.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono20";
+  src: url("woff2/UmdotMono20-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono21";
-  src: url("woff/UmdotMono21.woff2") format("woff2");
+  src: url("woff2/UmdotMono21.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono21";
+  src: url("woff2/UmdotMono21-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono22";
-  src: url("woff/UmdotMono22.woff2") format("woff2");
+  src: url("woff2/UmdotMono22.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono22";
+  src: url("woff2/UmdotMono22-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono23";
-  src: url("woff/UmdotMono23.woff2") format("woff2");
+  src: url("woff2/UmdotMono23.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono23";
+  src: url("woff2/UmdotMono23-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono24";
-  src: url("woff/UmdotMono24.woff2") format("woff2");
+  src: url("woff2/UmdotMono24.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono24";
+  src: url("woff2/UmdotMono24-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "UmdotMono25";
-  src: url("woff/UmdotMono25.woff2") format("woff2");
+  src: url("woff2/UmdotMono25.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "UmdotMono25";
+  src: url("woff2/UmdotMono25-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
 }
 
 .umdot11 {
   font-family: "Umdot11", sans-serif;
+  font-weight: 400;
+}
+.umdot11-bold {
+  font-family: "Umdot11", sans-serif;
+  font-weight: 700;
 }
 .umdot12 {
   font-family: "Umdot12", sans-serif;
+  font-weight: 400;
+}
+.umdot12-bold {
+  font-family: "Umdot12", sans-serif;
+  font-weight: 700;
 }
 .umdot13 {
   font-family: "Umdot13", sans-serif;
+  font-weight: 400;
+}
+.umdot13-bold {
+  font-family: "Umdot13", sans-serif;
+  font-weight: 700;
 }
 .umdot14 {
   font-family: "Umdot14", sans-serif;
+  font-weight: 400;
+}
+.umdot14-bold {
+  font-family: "Umdot14", sans-serif;
+  font-weight: 700;
 }
 .umdot15 {
   font-family: "Umdot15", sans-serif;
+  font-weight: 400;
+}
+.umdot15-bold {
+  font-family: "Umdot15", sans-serif;
+  font-weight: 700;
 }
 .umdot16 {
   font-family: "Umdot16", sans-serif;
+  font-weight: 400;
+}
+.umdot16-bold {
+  font-family: "Umdot16", sans-serif;
+  font-weight: 700;
 }
 .umdot17 {
   font-family: "Umdot17", sans-serif;
+  font-weight: 400;
+}
+.umdot17-bold {
+  font-family: "Umdot17", sans-serif;
+  font-weight: 700;
 }
 .umdot18 {
   font-family: "Umdot18", sans-serif;
+  font-weight: 400;
+}
+.umdot18-bold {
+  font-family: "Umdot18", sans-serif;
+  font-weight: 700;
 }
 .umdot19 {
   font-family: "Umdot19", sans-serif;
+  font-weight: 400;
+}
+.umdot19-bold {
+  font-family: "Umdot19", sans-serif;
+  font-weight: 700;
 }
 .umdot20 {
   font-family: "Umdot20", sans-serif;
+  font-weight: 400;
+}
+.umdot20-bold {
+  font-family: "Umdot20", sans-serif;
+  font-weight: 700;
 }
 .umdot21 {
   font-family: "Umdot21", sans-serif;
+  font-weight: 400;
+}
+.umdot21-bold {
+  font-family: "Umdot21", sans-serif;
+  font-weight: 700;
 }
 .umdot22 {
   font-family: "Umdot22", sans-serif;
+  font-weight: 400;
+}
+.umdot22-bold {
+  font-family: "Umdot22", sans-serif;
+  font-weight: 700;
 }
 .umdot23 {
   font-family: "Umdot23", sans-serif;
+  font-weight: 400;
+}
+.umdot23-bold {
+  font-family: "Umdot23", sans-serif;
+  font-weight: 700;
 }
 .umdot24 {
   font-family: "Umdot24", sans-serif;
+  font-weight: 400;
+}
+.umdot24-bold {
+  font-family: "Umdot24", sans-serif;
+  font-weight: 700;
 }
 .umdot25 {
   font-family: "Umdot25", sans-serif;
+  font-weight: 400;
+}
+.umdot25-bold {
+  font-family: "Umdot25", sans-serif;
+  font-weight: 700;
 }
 
 .umdotmono11 {
   font-family: "UmdotMono11", monospace;
+  font-weight: 400;
+}
+.umdotmono11-bold {
+  font-family: "UmdotMono11", monospace;
+  font-weight: 700;
 }
 .umdotmono12 {
   font-family: "UmdotMono12", monospace;
+  font-weight: 400;
+}
+.umdotmono12-bold {
+  font-family: "UmdotMono12", monospace;
+  font-weight: 700;
 }
 .umdotmono13 {
   font-family: "UmdotMono13", monospace;
+  font-weight: 400;
+}
+.umdotmono13-bold {
+  font-family: "UmdotMono13", monospace;
+  font-weight: 700;
 }
 .umdotmono14 {
   font-family: "UmdotMono14", monospace;
+  font-weight: 400;
+}
+.umdotmono14-bold {
+  font-family: "UmdotMono14", monospace;
+  font-weight: 700;
 }
 .umdotmono15 {
   font-family: "UmdotMono15", monospace;
+  font-weight: 400;
+}
+.umdotmono15-bold {
+  font-family: "UmdotMono15", monospace;
+  font-weight: 700;
 }
 .umdotmono16 {
   font-family: "UmdotMono16", monospace;
+  font-weight: 400;
+}
+.umdotmono16-bold {
+  font-family: "UmdotMono16", monospace;
+  font-weight: 700;
 }
 .umdotmono17 {
   font-family: "UmdotMono17", monospace;
+  font-weight: 400;
+}
+.umdotmono17-bold {
+  font-family: "UmdotMono17", monospace;
+  font-weight: 700;
 }
 .umdotmono18 {
   font-family: "UmdotMono18", monospace;
+  font-weight: 400;
+}
+.umdotmono18-bold {
+  font-family: "UmdotMono18", monospace;
+  font-weight: 700;
 }
 .umdotmono19 {
   font-family: "UmdotMono19", monospace;
+  font-weight: 400;
+}
+.umdotmono19-bold {
+  font-family: "UmdotMono19", monospace;
+  font-weight: 700;
 }
 .umdotmono20 {
   font-family: "UmdotMono20", monospace;
+  font-weight: 400;
+}
+.umdotmono20-bold {
+  font-family: "UmdotMono20", monospace;
+  font-weight: 700;
 }
 .umdotmono21 {
   font-family: "UmdotMono21", monospace;
+  font-weight: 400;
+}
+.umdotmono21-bold {
+  font-family: "UmdotMono21", monospace;
+  font-weight: 700;
 }
 .umdotmono22 {
   font-family: "UmdotMono22", monospace;
+  font-weight: 400;
+}
+.umdotmono22-bold {
+  font-family: "UmdotMono22", monospace;
+  font-weight: 700;
 }
 .umdotmono23 {
   font-family: "UmdotMono23", monospace;
+  font-weight: 400;
+}
+.umdotmono23-bold {
+  font-family: "UmdotMono23", monospace;
+  font-weight: 700;
 }
 .umdotmono24 {
   font-family: "UmdotMono24", monospace;
+  font-weight: 400;
+}
+.umdotmono24-bold {
+  font-family: "UmdotMono24", monospace;
+  font-weight: 700;
 }
 .umdotmono25 {
   font-family: "UmdotMono25", monospace;
+  font-weight: 400;
 }
+.umdotmono25-bold {
+  font-family: "UmdotMono25", monospace;
+  font-weight: 700;
+}
+
